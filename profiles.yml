@@ -1,4 +1,4 @@
-dbtcicd:
+dbtcicdnew:
   outputs:
     dev:
       dbname: dev
